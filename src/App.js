@@ -2,7 +2,7 @@ import React from 'react';
 import Colorgen from './Colorgenerator'
 import Gradient from './Gradient'
 import Main from './main'
-import {BrowserRouter as Router , Route , Switch } from 'react-router-dom'
+import {HashRouter as Router , Route , Switch } from 'react-router-dom'
 import './App.css';
 
 function App() {
